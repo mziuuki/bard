@@ -1,2 +1,8 @@
-# bard
-My Nigga Bard
+{
+  "name": "Bard",
+  "version": "1.0.0",
+  "description": "My Nigga Bard",
+  "main": "bot.js",
+  "author": "Mizuuki",
+  "dependencies": {}
+}
