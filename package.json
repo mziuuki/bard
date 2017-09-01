@@ -1,0 +1,16 @@
+{
+  "name": "bard",
+  "version": "1.0.0",
+  "description": "My Nigga Bard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mizuuki",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.1.0",
+    "read-directory": "^2.1.0"
+  }
+}
